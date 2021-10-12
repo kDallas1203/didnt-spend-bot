@@ -1,6 +1,6 @@
 const obj = {
-  hello: "hello",
-  world: "world",
+  hello: 'Hello',
+  world: 'World!',
 }
 
 console.log(`${obj.hello} ${obj.world}!`)
